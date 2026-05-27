@@ -5,3 +5,4 @@ __pycache__/
 .pytest_cache/
 mock_output*.xlsx
 flagged_locations.xlsx
+.claude/
