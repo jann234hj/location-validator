@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.geocache.json
+.pytest_cache/
+mock_output*.xlsx
+flagged_locations.xlsx
